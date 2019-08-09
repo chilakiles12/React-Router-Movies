@@ -73,5 +73,7 @@ body {
 
 .home-button {
   padding: 5px 10px;
+  margin: 5px 0;
   background-color: lightskyblue;
+  list-style-type: none;
 }
